@@ -20,9 +20,9 @@ header {
 }
 
 .logo {
-    width: 200px; /* Adjusted size */
-    height: 200px;
-    margin-right: 20px; /* Space between logo and title */
+    width: 100px; /* Adjusted size */
+    height: 100px;
+    margin-right: 10px; /* Space between logo and title */
 }
 
 .description, .features, .links {
