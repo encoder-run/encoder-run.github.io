@@ -20,8 +20,8 @@ header {
 }
 
 .logo {
-    width: 120px; /* Adjust the size as necessary */
-    height: auto;
+    width: 300px; /* Adjusted size */
+    height: 300px;
     margin-right: 20px; /* Space between logo and title */
 }
 
