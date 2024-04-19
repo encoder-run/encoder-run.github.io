@@ -26,8 +26,10 @@ header {
     box-shadow: 0 8px 16px rgba(0,0,0,0.1);
 }
 
-.features h2 {
+.features h2, .links h2 {
     color: #2c3e50;
+    font-size: 22px;
+    margin-bottom: 16px;
 }
 
 .features ul {
