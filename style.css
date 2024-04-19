@@ -4,16 +4,17 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background: #f9f9f9;
+    background: #f2f2f2;
     color: #333;
 }
 
 header {
-    background: #007bff;
+    background: #2c3e50; /* Darker green/blue shade */
     color: #fff;
-    padding: 30px 20px;
+    padding: 40px 20px;
     text-align: center;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+    font-size: 24px;
 }
 
 .description, .features, .links {
@@ -21,12 +22,12 @@ header {
     padding: 20px;
     max-width: 800px;
     background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
 }
 
 .features h2 {
-    color: #0056b3;
+    color: #2c3e50;
 }
 
 .features ul {
@@ -36,20 +37,25 @@ header {
 
 .features li {
     margin-bottom: 10px;
-    font-weight: bold; /* Bold feature list */
+    font-size: 16px;
+}
+
+.features li strong {
+    font-weight: bold; /* Apply bold only to titles before colon */
 }
 
 .links a {
-    color: #007bff;
+    color: #2c3e50;
     text-decoration: none;
-    padding: 8px 16px;
+    padding: 10px 20px;
     display: inline-block;
-    border-radius: 4px;
+    border-radius: 5px;
+    background-color: #e0e0e0;
     transition: background-color 0.3s, color 0.3s;
 }
 
 .links a:hover {
-    background-color: #0056b3;
+    background-color: #2c3e50;
     color: #fff;
     text-decoration: none;
 }
