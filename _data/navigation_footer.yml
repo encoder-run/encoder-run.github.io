@@ -1,10 +1,10 @@
 # Footer navigation links
 
-- title: Home
-  url: /
+#- title: Home
+#  url: /
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
-- title: Contact
-  url: /contact/
+#- title: Contact
+#  url: /contact/

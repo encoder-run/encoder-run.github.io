@@ -1,16 +1,15 @@
-# Boxes include navigation
+- title: "Automatic Model Deployment"
+  desc: "Dynamically deploys encoding models in a Kubernetes environment as needed."
+  icon: "cloud-upload"  # Represents uploading or deployment to the cloud
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
-  icon: cog
-  doc: installation
+- title: "Continuous Synchronization"
+  desc: "Monitors source code repositories and triggers the encoding process for updated code, ensuring that embeddings remain current."
+  icon: "refresh"  # Symbolizes continuous or repeated action
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
-  icon: settings
-  doc: hero
+- title: "Scalable and Efficient"
+  desc: "Optimized for performance and scalability, handling multiple repositories and large codebases with ease."
+  icon: "database"  # Indicates data handling, often used for scalability and storage
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
-  icon: code
-  doc: customize
+- title: "Customizable Encoding Models"
+  desc: "Supports a variety of encoding models, allowing users to choose the best fit for their specific requirements."
+  icon: "cog"  # Typically used to represent settings or customization options
