@@ -31,9 +31,9 @@ right:
 #    url: /changelog-timeline/
 #    button: primary-outline
 
-#  - title: Contact
-#    url: /contact/
-#    button: success
+  - title: Contact
+    url: /contact/
+    button: success
 
   # - title: Changelog
   #   url: /contact/
