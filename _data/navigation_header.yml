@@ -4,14 +4,14 @@ left:
   - title: Home
     url: /
 
-  - title: Docs
-    url: "https://github.com/encoder-run/operator/docs"
+  #- title: Docs
+  #  url: "https://github.com/encoder-run/operator/docs"
   
-  #- title : Github
-  #  url: "https://github.com/encoder-run/operator"
+  - title : Github
+    url: "https://github.com/encoder-run/operator"
 
-  #- title: Blog
-  #  url: /blog/
+  - title: Substack
+  - url: "https://encoderrun.substack.com/"
 
   #- title: Changelogs
   #  dropdown:
