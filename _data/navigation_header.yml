@@ -11,7 +11,7 @@ left:
     url: "https://github.com/encoder-run/operator"
 
   - title: Substack
-  - url: "https://encoderrun.substack.com/"
+    url: "https://encoderrun.substack.com/"
 
   #- title: Changelogs
   #  dropdown:
