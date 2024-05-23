@@ -7,8 +7,8 @@ left:
   - title: Docs
     url: "https://github.com/encoder-run/operator/docs"
   
-  - title : Github
-    url: "https://github.com/encoder-run/operator"
+  #- title : Github
+  #  url: "https://github.com/encoder-run/operator"
 
   #- title: Blog
   #  url: /blog/
