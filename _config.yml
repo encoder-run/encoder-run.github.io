@@ -23,7 +23,7 @@ logo:
 
 navbar:
     sticky:         true
-    search:         true
+    search:         false
   
 # Default author settings
 author:
@@ -70,7 +70,7 @@ sass:
 
 collections:
   docs:
-    output:         true
+    output:         false
   faqs:
     output:         false
   changelogs:
