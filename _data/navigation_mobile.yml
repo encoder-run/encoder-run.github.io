@@ -3,12 +3,8 @@
 - title: Home
   url: /
 
-- title: Docs
-  url: /docs/installation/
+- title : Github
+  url: "https://github.com/encoder-run/operator"
 
-- title: Blog
-  url: /blog/
-
-- title: Contact
-  url: /contact/
-  button: success
+- title: Substack
+  url: "https://encoderrun.substack.com/"
