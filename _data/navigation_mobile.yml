@@ -9,9 +9,6 @@
 - title: Blog
   url: /blog/
 
-- title: Changelog
-  url: /changelog-timeline/
-
 - title: Contact
   url: /contact/
   button: success
