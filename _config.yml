@@ -68,25 +68,25 @@ exclude:
 sass:
   style:            compressed
 
-collections:
-  docs:
-    output:         false
-  faqs:
-    output:         false
-  changelogs:
-    output:         false
+# collections:
+#   docs:
+#     output:         false
+#   faqs:
+#     output:         false
+#   changelogs:
+#     output:         false
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path:         ""
-      type:         posts
-    values:
-      layout:       post
-  # _docs
-  - scope:
-      path:         ""
-      type:         docs
-    values:
-      layout:       doc
+# # Defaults
+# defaults:
+#   # _posts
+#   - scope:
+#       path:         ""
+#       type:         posts
+#     values:
+#       layout:       post
+#   # _docs
+#   - scope:
+#       path:         ""
+#       type:         docs
+#     values:
+#       layout:       doc
