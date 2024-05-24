@@ -31,9 +31,9 @@ right:
 #    url: /changelog-timeline/
 #    button: primary-outline
 
-  - title: Try it!
-    url: https://demo.encoder.run/
-    button: primary
+  #- title: Try it!
+  #  url: https://demo.encoder.run/
+  #  button: primary
 
   # - title: Changelog
   #   url: /contact/
