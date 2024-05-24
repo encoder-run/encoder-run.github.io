@@ -68,7 +68,7 @@ exclude:
 sass:
   style:            compressed
 
-# collections:
+collections:
 #   docs:
 #     output:         false
 #   faqs:
@@ -77,7 +77,7 @@ sass:
 #     output:         false
 
 # # Defaults
-# defaults:
+defaults:
 #   # _posts
 #   - scope:
 #       path:         ""
